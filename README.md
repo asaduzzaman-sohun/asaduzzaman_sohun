@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Asaduzzaman%20Sohun&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Sohun!&fontSize=40&fontAlignY=35&desc=CSE%20Graduate%20%7C%20eBPF%20%7C%20Linux%20Kernel%20%7C%20Systems%20Optimization&descSize=18&descAlignY=55)
 
 ### A Passionate Backend Developer
 
